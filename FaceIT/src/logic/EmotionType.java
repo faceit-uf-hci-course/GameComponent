@@ -5,5 +5,5 @@ public enum EmotionType
 	ANGRY,
 	SURPRISED,
 	HAPPY,
-	BORED
+	SAD
 }

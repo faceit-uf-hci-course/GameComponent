@@ -29,7 +29,7 @@ public class Game
 			{
 			case 1: pType = EmotionType.ANGRY;
 			break;
-			case 2: pType = EmotionType.BORED;
+			case 2: pType = EmotionType.SAD;
 			break;
 			case 3: pType = EmotionType.HAPPY;
 			break;
@@ -63,7 +63,7 @@ public class Game
 			{
 				case 1: pType = EmotionType.ANGRY;
 				break;
-				case 2: pType = EmotionType.BORED;
+				case 2: pType = EmotionType.SAD;
 				break;
 				case 3: pType = EmotionType.HAPPY;
 				break;
